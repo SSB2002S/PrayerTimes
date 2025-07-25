@@ -1,23 +1,23 @@
 # Prayer Timer Project
 
-تطبيق React لعرض أوقات الصلاة لعدة مدن يمنية مع عرض التاريخ الهجري والميلادي.
+A React application to display prayer times for several Yemeni cities, including the Hijri and Gregorian dates.
 
-## الميزات
+# Features
 
-- جلب أوقات الصلاة من [Aladhan API](https://aladhan.com/prayer-times-api).
-- عرض أوقات الصلوات الخمس (الفجر، الظهر، العصر، المغرب، العشاء).
-- إمكانية اختيار المدينة (المكلا، عدن، صنعاء، تعز).
-- عرض التاريخ الهجري والميلادي.
-- واجهة عربية وتصميم متجاوب وجذاب.
+- Retrieves prayer times from the [Aladhan API](https://aladhan.com/prayer-times-api).
+- Displays the five prayer times (Fajr, Dhuhr, Asr, Maghrib, and Isha).
+- Ability to select a city (Mukalla, Aden, Sana'a, Taiz).
+- Displays the Hijri and Gregorian dates.
+- An Arabic interface with an attractive, responsive design.
 
-## المتطلبات
+# Requirements
 
-- Node.js (يفضل الإصدار 16 أو أحدث)
-- npm أو yarn
+- Node.js (preferably version 16 or later)
+- npm or yarn
 
-## طريقة التشغيل
+# How to Run
 
-1. **تنصيب الحزم:**
-   ```bash
-   npm install
-   ```
+1. **Install Packages:**
+```bash
+npm install
+```
